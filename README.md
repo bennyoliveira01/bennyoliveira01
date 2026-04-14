@@ -1,4 +1,4 @@
-# Hi there, I'm Benny Oliveira (bennycarvalho13) 👋 
+# Hi there, I'm Benny Oliveira 👋 
 
 ## I'm a Game Developer, and Full Stack developer
 
